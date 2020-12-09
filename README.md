@@ -7,4 +7,4 @@ https://arxiv.org/pdf/1904.12891.pdf.
 
 "ITE_linear" contains all source functions.
 
-"Eaxample" gives a simulated example to use the source functions.
+"Example" gives a simulated data example to conduct statistical inference for ITE with the source file "ITE_linear".
