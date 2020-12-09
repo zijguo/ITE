@@ -1,5 +1,5 @@
-# ITE
-Individualized Treatment Selection
+# Individualized Treatment Selection (ITE)
+
 This repository demonstrates the implementation of the individualized treatment selection method proposed in 
 
 Cai T, Cai TT, Guo Z (2019). “Individualized Treatment Selection: An Optimal Hypothesis Testing Approach In High-dimensional Models.” 
