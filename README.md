@@ -6,4 +6,5 @@ Cai T, Cai TT, Guo Z (2019). “Individualized Treatment Selection: An Optimal H
 https://arxiv.org/pdf/1904.12891.pdf.
 
 "ITE_linear" contains all source functions.
+
 "Eaxample" gives a simulated example to use the source functions.
