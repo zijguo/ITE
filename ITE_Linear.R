@@ -31,7 +31,7 @@ Lasso <- function(X, y, lambda = NULL, intercept = TRUE) {
   
   htheta <- if (is.null(lambda)) {
     outLas <- cv.glmnet(X, y, family = "gaussian", alpha = 1,
-                        intercept = intercept)
+                        intercept = intercept) 
     # Objective : 1/2 * RSS/n + lambda * penalty
     as.vector(coef(outLas, s = outLas$lambda.min))
   } else if (lambda == "CV") {
