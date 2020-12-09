@@ -1,11 +1,11 @@
-###### loading the package
+###### loading the packages
 library(MASS)
 library(CVXR)
 library(AER)
 library(Matrix);
 library(glmnet);
 ###### read the source code
-source('~/Dropbox/Projects-Collaboration/Treatment Selection/JRSSB-Third-Revision/Submission-Code-Data/ITE_Linear.R', encoding = 'UTF-8')
+source('ITE_Linear.R', encoding = 'UTF-8')
 ###### set up the model generation parameters
 n1 = 91
 p = 171
